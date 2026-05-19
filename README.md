@@ -3,7 +3,7 @@
 # JRM Chronos: The Elite Scheduling Substrate
 
 ## System Overview Architecture
-Welcome to JRM Chronos—the definitive hyper-velocity scheduling engine designed for absolute control over your time and tasks. No fluff, no "AI" hallucinations—just raw, sub-second performance for managing your schedule, reminders, and the legendary **JRM Stickies**. This is a Self-Optimizing Productivity Substrate built to handle massive task loads with 0.02s UI responsiveness. It’s personal, it’s fast, and it’s built to win.
+Welcome to JRM Chronos—the definitive hyper-velocity scheduling engine designed for absolute control over your time and tasks. No sub-second performance for managing your schedule, reminders, and the legendary **JRM Stickies**. This is a Self-Optimizing Productivity Substrate built to handle massive task loads with 0.02s UI responsiveness. It’s personal, it’s fast, and it’s built to win.
 
 ## Structural Functional Blueprint
 ```text
