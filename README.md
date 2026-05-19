@@ -1,31 +1,31 @@
 ## This is for you, boss. Built to dominate.
 
-# JRM Chronos Substrate
+# JRM Chronos: The Elite Scheduling Substrate
 
 ## System Overview Architecture
-Welcome to the JRM Chronos Substrate—a hyper-velocity engine optimized for distributed, sub-second text and data processing. Leveraging a non-parametric mathematical foundation and distributed sprite-based background automation, this substrate guarantees multi-threaded compilation, cross-language evolutionary mutations, and unparalleled system scaling. It functions as a Self-Optimizing Enterprise Substrate designed to handle massive string vectors and code manipulation at unprecedented speed (0.02s per-page pipeline).
+Welcome to JRM Chronos—the definitive hyper-velocity scheduling engine designed for absolute control over your time and tasks. No fluff, no "AI" hallucinations—just raw, sub-second performance for managing your schedule, reminders, and the legendary **JRM Stickies**. This is a Self-Optimizing Productivity Substrate built to handle massive task loads with 0.02s UI responsiveness. It’s personal, it’s fast, and it’s built to win.
 
 ## Structural Functional Blueprint
 ```text
-[ GUI / CLI Canvas ] <--> [ Sprite UI Automation Layer ]
+[ GUI / CLI Canvas ] <--> [ Sprite UI Interaction Layer ]
          |                              |
          v                              v
-[ Input Mutator ] -----------> [ Memory Buffer Pools ]
+[ Chronos Scheduler ] ---------> [ Sticky Note Buffer ]
          |                              |
          v                              v
-[ 0.02s Translation ] <------> [ Karoo Optimization ]
+[ 0.02s UI Refresh ] <---------> [ Task Priority Matrix ]
          |                              |
          v                              v
-[ Database & Log Sync ] -----> [ Final Binary Output ]
+[ Local Database Sync ] -------> [ Final Schedule Output ]
 ```
 
 ## Topological File Tree
 ```text
 JRM_Chronos/
 ├── configurations/
-│   └── local_*.json           (Config Matrix)
+│   └── local_*.json           (User Preferences Matrix)
 ├── docs/
-│   ├── upload_telemetry.log   (Event Stream)
+│   ├── upload_telemetry.log   (Event Stream & Usage Logs)
 │   └── screenshots/
 │       ├── 01_main_landing.png
 │       ├── 02_settings_matrix.png
@@ -33,7 +33,7 @@ JRM_Chronos/
 │       ├── 04_exception_catch.png
 │       └── 05_output_delivery.png
 ├── src/
-│   └── (Cross-Language Payload Delivery)
+│   └── (Core Scheduling & Stickies Logic)
 ├── .gitignore
 ├── CHANGELOG.md
 └── README.md
@@ -41,60 +41,63 @@ JRM_Chronos/
 
 ## Button-by-Button Operation Manual & Visual Pipeline
 
-### 1. Main Landing Canvas
+### 1. Main Landing Canvas (The War Room)
 ![Main Landing Canvas](docs/screenshots/01_main_landing.png)
-**Operation:** The primary initialization frame. Once executed, the desktop automation framework maps interactive rectangles and button bounds to ready the UI Canvas. 
+**Operation:** Your primary command center. This is where you see the "Now" view. The desktop framework maps out your upcoming hour with surgical precision. Every interactive rectangle is a gateway to a task.
 
-### 2. Settings Matrix & Fuzzy Logic Thresholds
+### 2. Settings Matrix & Scheduling Thresholds
 ![Settings Matrix](docs/screenshots/02_settings_matrix.png)
-**Operation:** Internal properties configuration. Allows for fuzzy variable tuning and precision scaling of the initial seed file selection criteria.
+**Operation:** Internal properties configuration. Here you tune your notification "fuzzy" logic—decide how aggressively Chronos reminds you of your priorities. It’s where you set the global behavior of the Stickies.
 
-### 3. Processing Flow & Execution Canvas
+### 3. Processing Flow & The Stickies Canvas
 ![Processing Flow](docs/screenshots/03_processing_flow.png)
-**Operation:** The heart of the hyper-velocity engine. Real-time visualizations of the 0.02s per-page pipeline executing cross-language algorithms and mapping syntax structural loads.
+**Operation:** Real-time visualization of the Stickies system. Watch as JRM Chronos routes your thoughts into organized digital stickies. The 0.02s per-page pipeline ensures that when you have an idea, it’s on the screen before you finish thinking it.
 
-### 4. Exception Catch & Self-Correction
+### 4. Exception Catch & Task Recovery
 ![Exception Catch](docs/screenshots/04_exception_catch.png)
-**Operation:** Out-of-bounds input triggers this operational recovery window. The self-correcting HQ feedback loop intercepts failure states without pipeline disruption.
+**Operation:** Missed a deadline? The Exception Catch triggers the operational recovery window. It doesn't just nag you; it calculates the next best slot in your schedule to "Self-Correct" the flow.
 
-### 5. Final Output Delivery
+### 5. Final Output Delivery (Day Summary)
 ![Output Delivery](docs/screenshots/05_output_delivery.png)
-**Operation:** Finalized environment pack deployment. Compiled binaries and formatted assets are staged here for remote round-robin deployment.
+**Operation:** At the end of the sprint, Chronos compiles your performance. It shows where your time went and stages your "Environment Pack" (the next day's schedule) for immediate execution.
 
-## Algorithmic Calculation Summations
-The JRM Chronos engine relies heavily on non-parametric mathematics to sidestep standard distribution assumptions within vast code inputs. By integrating power-law strategies, the system effectively normalizes processing time across extreme outliers, allowing the translation pipelines to remain stable even when ingesting millions of tokens concurrently.
+## The Legendary JRM Stickies Logic
+The heart of JRM Chronos isn't some black-box algorithm; it's the **Stickies**. 
+- **Sticky Buffering:** Every note is instantly cached in a local memory pool.
+- **Visual Mapping:** Stickies aren't just text; they are "interactive vectors" that can be pinned, stacked, or merged into the main scheduler.
+- **Priority Anchoring:** A sticky can be "anchored" to a specific time, forcing the scheduler to route other tasks around it.
 
-## Agent Communication Protocols
+## Communication Protocols (User Feedback)
 ```text
-[TIMESTAMP] - [SPRITE-NODE-01] - INFO: Identified grammatical anomaly in vector block 4B.
-[TIMESTAMP] - [ACL-BUS] - SYNC: Routing anomaly to LLM-Supervisor-Thread.
-[TIMESTAMP] - [LLM-SUPERVISOR] - CMD: Dispatching corrective token overlay...
-[TIMESTAMP] - [SPRITE-NODE-01] - ACK: Overlay successful. Syntax structure repaired.
+[TIMESTAMP] - [CHRONOS-CORE] - INFO: User created "VIPER NOTE" Sticky.
+[TIMESTAMP] - [STICKY-BUS] - SYNC: Buffering text payload to local matrix.
+[TIMESTAMP] - [UI-LAYER] - CMD: Rendering Sticky with high-visibility overlay.
+[TIMESTAMP] - [CHRONOS-CORE] - ACK: Sticky locked to top-right quadrant.
 ```
-The localized Agent Communication Language (ACL) message bus actively tracks grammatical operations. Background sprites autonomously evaluate and correct code syntax mutations dynamically, recording actions within the memory buffer.
+The internal message bus tracks every interaction. When you drag a sticky, the system calculates the optimal screen real estate to ensure your most important notes are never buried.
 
-## Karoo Optimization Parameters
-The runtime leverages a highly precise 0.05% evolutionary mutation envelope. These microscopic adjustments (Karoo boundaries) ensure that high-performance legacy loops are retained while experimental branches evolve in isolated memory sectors safely.
+## Optimization Parameters (Personal Performance)
+The runtime leverages a 0.05% "Micro-Mutation" strategy for your habits. By tracking how often you snooze certain tasks, Chronos subtly suggests better time slots, preserving your "High-Performance Legacy Loops" (the stuff you actually get done) while evolving your weaker slots.
 
 ---
 
-## The Next Steps Vector Roadmap
+## The Next Steps Vector Roadmap (Viper Ideas & Beyond)
 
-- **Action Vector 1:** Scale the Thousands-by-Thousands database to map advanced, cross-language algorithmic structures.
-- **Action Vector 2:** Tune fuzzy set lookup tolerances to increase initial seed file precision from 95% to 98%.
-- **Action Vector 3:** Expand the ACL message bus to route concurrent communications across multiple local machines.
-- **Action Vector 4:** Deploy Spearman’s Rank Correlation routines to optimize trend discovery in non-normal datasets.
-- **Action Vector 5:** Optimize sprite background processes to minimize RAM footprints during high-speed text edits.
-- **Action Vector 6:** Implement automated proxy rotation hooks to stabilize distributed web scraping operations.
-- **Action Vector 7:** Introduce adversarial stress testing parameters designed to evaluate high-volume string inputs.
-- **Action Vector 8:** Configure automatic system notifications to alert development nodes when an epoch upgrade occurs.
-- **Action Vector 9:** Map system layout logic to physical hardware cores using the Magma compiler interface.
-- **Action Vector 10:** Incorporate historical performance logs into background models to forecast code optimization paths.
-- **Action Vector 11:** Automate asset formatting to dynamically scale screenshots for various documentation displays.
-- **Action Vector 12:** Optimize file packing loops to accelerate round-robin binary deployments.
-- **Action Vector 13:** Refine micro-mutation step boundaries to preserve efficient, high-performance legacy logic loops.
-- **Action Vector 14:** Implement visual mapping layers to chart code density profiles via direct matrix calculations.
-- **Action Vector 15:** Deploy deep data mining utilities to extract highly optimized algorithms from long-tail search data.
-- **Action Vector 16:** Establish automated backup nodes to ensure complete data redundancy across local matrix files.
-- **Action Vector 17:** Refine interface click targets within testing suites to accommodate dynamic GUI scaling configurations.
-- **Action Vector 18:** Optimize database distribution layers to prioritize frequently used language structures.
+- **Action Vector 1:** Scale the Stickies database to handle 10,000+ simultaneous notes without latency.
+- **Action Vector 2:** Tune the "Fuzzy Notification" tolerances for maximum "Boss" focus.
+- **Action Vector 3:** Expand the ACL (Action Control Layer) to sync Stickies between mobile and desktop via private bridge.
+- **Action Vector 4:** Deploy "Rank Correlation" to see which tasks actually lead to productive days.
+- **Action Vector 5:** Optimize background sprites to keep RAM footprint near zero for 24/7 operation.
+- **Action Vector 6:** [IDEA] Implement "Ghost Notes" for things you want to remember but don't want to see yet.
+- **Action Vector 7:** Stress test the scheduler with 1,000 tasks in a single day (Extreme Mode).
+- **Action Vector 8:** Automatic system pings to alert you when you've been in "Focus Mode" too long.
+- **Action Vector 9:** Map the UI layout directly to physical keybinds for "No-Mouse" scheduling.
+- **Action Vector 10:** Historical logs to forecast exactly when you'll finish your weekly goals.
+- **Action Vector 11:** Auto-scaling screenshots for sharing your "War Room" layout with the team.
+- **Action Vector 12:** File packing for "Schedule Backups"—never lose a single sticky.
+- **Action Vector 13:** Refine the "Micro-Mutation" boundaries for better sleep-cycle scheduling.
+- **Action Vector 14:** [VIPER NOTE] Visual "Heat Map" of where you spend your time on the screen.
+- **Action Vector 15:** Deep-search utilities to find that one sticky from six months ago in 0.01s.
+- **Action Vector 16:** Redundant backup nodes for your task list—locally encrypted.
+- **Action Vector 17:** Custom click targets for ultra-fast "One-Tap" task completion.
+- **Action Vector 18:** Optimize the distribution layer to prioritize "Urgent & Important" vectors.
