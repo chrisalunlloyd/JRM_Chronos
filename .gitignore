@@ -1,0 +1,16 @@
+# Caches and logs
+*.log
+.cache/
+node_modules/
+__pycache__/
+
+# Build data
+build/
+dist/
+target/
+
+# System files
+.DS_Store
+
+# Local config
+configurations/local_*.json
