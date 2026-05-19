@@ -1,8 +1,16 @@
-# Caches and logs
+# Caches, logs, and sensitive data
 *.log
+*.tmp
+*.bak
 .cache/
 node_modules/
 __pycache__/
+
+# Chat and history scrubbing
+*chat*
+*history*
+.bash_history
+.zsh_history
 
 # Build data
 build/
@@ -11,6 +19,10 @@ target/
 
 # System files
 .DS_Store
+Thumbs.db
 
-# Local config
+# Local config and credentials
 configurations/local_*.json
+.env
+*.pem
+*.key
